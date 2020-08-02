@@ -6,4 +6,4 @@ RUN pip3 install pprint
 RUN pip3 install requests
 COPY . /app
 WORKDIR /app
-CMD ["./Dockerfile.py"
+CMD ["./Dockerfilescript.py"
